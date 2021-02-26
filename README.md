@@ -1,4 +1,5 @@
 # Banh_algos
+![alt text](https://sun9-2.userapi.com/gCgXCXDMdoht7hZIfpbndj6QHMw18Ryr97cjpA/ZAnP6upRr34.jpg)
 + лаба-1 [задание-1](https://github.com/TheZnat/Banh_algos/blob/main/лаба-1_задание-1.cpp) | [задание-2](https://github.com/TheZnat/Banh_algos/blob/main/лаба-1_задание-2.cpp)
 + [лаба-2](https://github.com/TheZnat/Banh_algos/tree/main/лаба-2)
 + [лаба-3](https://github.com/TheZnat/Banh_algos/tree/main/лаба-3) 
